@@ -1,5 +1,4 @@
 # StringReaper
-# StringReaper
 
 > A lightweight C++ tool for extracting and analyzing raw strings from binary files.  
 > Designed for reverse engineers, malware analysts, and curious hackers.
@@ -11,9 +10,9 @@
 `StringReaper` dives into binary files and pulls out printable ASCII strings
 It scans for:
 
--  **Base64 payloads**
--  **Hex-encoded strings**
--  **Hidden URLs & secrets**
+ **Base64 payloads**
+ **Hex-encoded strings**
+ **Hidden URLs & secrets**
 
 Use it to:
  Uncover malware commands
