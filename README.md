@@ -8,8 +8,8 @@
 
 ##  Overview
 
-`StringReaper` dives into binary files and pulls out printable ASCII strings —  
-but it doesn’t stop there. It scans for:
+`StringReaper` dives into binary files and pulls out printable ASCII strings
+It scans for:
 
 -  **Base64 payloads**
 -  **Hex-encoded strings**
